@@ -1342,7 +1342,7 @@ INCREASE COMPLETE COUNT^batch_count={{subflow.service_record.batch_count}}, {{su
         <sys_updated_by>shreenag.araga@snc</sys_updated_by>
         <sys_updated_on>2023-03-31 05:40:48</sys_updated_on>
         <table>var__m_sys_hub_action_input_43400a1587003300663ca1bb36cb0b4b</table>
-        <value>u_g_l_account_number={{f4a6aedf-bcd6-47f5-a1b4-87c2d9feae94.item.SAKNR}}^u_client={{f4a6aedf-bcd6-47f5-a1b4-87c2d9feae94.item.MANDT}}</value>
+        <value>g_l_account_number={{f4a6aedf-bcd6-47f5-a1b4-87c2d9feae94.item.SAKNR}}^client={{f4a6aedf-bcd6-47f5-a1b4-87c2d9feae94.item.MANDT}}</value>
     </sys_element_mapping>
     <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>table</field>
@@ -1428,7 +1428,7 @@ INCREASE COMPLETE COUNT^batch_count={{subflow.service_record.batch_count}}, {{su
         <sys_updated_by>shreenag.araga@snc</sys_updated_by>
         <sys_updated_on>2023-03-31 05:40:48</sys_updated_on>
         <table>var__m_sys_hub_action_input_f9d01dd2c31332002841b63b12d3aea1</table>
-        <value>u_g_l_account_additional_text={{f4a6aedf-bcd6-47f5-a1b4-87c2d9feae94.item.TXT20}}</value>
+        <value>g_l_account_additional_text={{f4a6aedf-bcd6-47f5-a1b4-87c2d9feae94.item.TXT20}}</value>
     </sys_element_mapping>
     <sys_hub_input_scripts action="delete_multiple" query="instance=d6c39f13833d219067a211b6feaad3be"/>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=d6c39f13833d219067a211b6feaad3be"/>
@@ -3489,7 +3489,7 @@ INCREASE COMPLETE COUNT^batch_count={{subflow.service_record.batch_count}}, {{su
         <sys_updated_by>shreenag.araga@snc</sys_updated_by>
         <sys_updated_on>2023-03-31 05:46:54</sys_updated_on>
         <table>var__m_sys_hub_action_input_43400a1587003300663ca1bb36cb0b4b</table>
-        <value>u_g_l_account_number={{f4a6aedf-bcd6-47f5-a1b4-87c2d9feae94.item.SAKNR}}^u_client={{f4a6aedf-bcd6-47f5-a1b4-87c2d9feae94.item.MANDT}}</value>
+        <value>g_l_account_number={{f4a6aedf-bcd6-47f5-a1b4-87c2d9feae94.item.SAKNR}}^client={{f4a6aedf-bcd6-47f5-a1b4-87c2d9feae94.item.MANDT}}</value>
     </sys_element_mapping>
     <sys_element_mapping action="INSERT_OR_UPDATE">
         <field>table</field>
@@ -4029,7 +4029,7 @@ INCREASE COMPLETE COUNT^batch_count={{subflow.service_record.batch_count}}, {{su
         <sys_updated_by>shreenag.araga@snc</sys_updated_by>
         <sys_updated_on>2023-03-31 05:46:55</sys_updated_on>
         <table>var__m_sys_hub_action_input_f9d01dd2c31332002841b63b12d3aea1</table>
-        <value>u_g_l_account_additional_text={{f4a6aedf-bcd6-47f5-a1b4-87c2d9feae94.item.TXT20}}</value>
+        <value>g_l_account_additional_text={{f4a6aedf-bcd6-47f5-a1b4-87c2d9feae94.item.TXT20}}</value>
     </sys_element_mapping>
     <sys_hub_input_scripts action="delete_multiple" query="instance=6f259b93833d219067a211b6feaad392"/>
     <sys_hub_alias_mapping action="delete_multiple" query="source_id=6f259b93833d219067a211b6feaad392"/>
