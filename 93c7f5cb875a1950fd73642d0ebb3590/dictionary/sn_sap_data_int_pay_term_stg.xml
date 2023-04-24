@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="266e71b9c3d1e11068187addd4013180" extends="sys_import_set_row" label="Payment Terms" max_length="40" name="sn_sap_data_int_pay_term_stg" type="collection">
+    <element db_object_id="266e71b9c3d1e11068187addd4013180" extends="sys_import_set_row" label="Payment Terms" name="sn_sap_data_int_pay_term_stg" type="collection">
         <element label="Account type" max_length="1" name="account_type" type="string"/>
         <element label="Additional months" max_length="2" name="additional_months" type="string"/>
         <element label="Additional months for special condition 1" max_length="2" name="additional_months_for_special_condition_1" type="string"/>
