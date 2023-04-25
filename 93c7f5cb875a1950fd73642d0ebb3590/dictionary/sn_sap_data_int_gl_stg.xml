@@ -10,8 +10,8 @@
         <element attributes="edge_encryption_enabled=true" label="Client" max_length="3" name="client" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Commitment item" max_length="14" name="commitment_item" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Company code" max_length="10" name="company_code" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="Date of the last interest calculation run" max_length="10" name="date_of_the_last_interest_calculation_run" type="glide_date"/>
-        <element attributes="edge_encryption_enabled=true" label="Date on which the record was created" max_length="40" name="date_on_which_the_record_was_created" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Date of the last interest calculation run" max_length="10" name="date_of_the_last_interest_calculation_run" type="string"/>
+        <element label="Date on which the record was created" max_length="50" name="date_on_which_the_record_was_created" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Erp source" max_length="32" name="erp_source" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Field status group" max_length="10" name="field_status_group" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Financial budget item" max_length="3" name="financial_budget_item" type="string"/>
@@ -51,8 +51,8 @@
         <element attributes="edge_encryption_enabled=true" label="Client" max_length="3" name="u_client" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Commitment item" max_length="14" name="u_commitment_item" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Company code" max_length="10" name="u_company_code" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="Date of the last interest calculation run" max_length="10" name="u_date_of_the_last_interest_calculation_run" type="glide_date"/>
-        <element attributes="edge_encryption_enabled=true" label="Date on which the record was created" max_length="40" name="u_date_on_which_the_record_was_created" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Date of the last interest calculation run" max_length="10" name="u_date_of_the_last_interest_calculation_run" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Date on which the record was created" max_length="40" name="u_date_on_which_the_record_was_created" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Erp source" max_length="32" name="u_erp_source" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Field status group" max_length="10" name="u_field_status_group" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Financial budget item" max_length="3" name="u_financial_budget_item" type="string"/>

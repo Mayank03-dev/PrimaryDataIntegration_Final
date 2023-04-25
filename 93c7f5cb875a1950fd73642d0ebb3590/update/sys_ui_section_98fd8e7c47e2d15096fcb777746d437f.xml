@@ -686,6 +686,20 @@
             <sys_user/>
             <type/>
         </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>date_on_which_the_record_was_created</element>
+            <position>49</position>
+            <sys_created_by>Varun</sys_created_by>
+            <sys_created_on>2023-04-25 07:50:15</sys_created_on>
+            <sys_id>0e216c6f479269105e5faca2026d43b3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="sn_sap_data_int_gl_stg" sys_domain="global" view="Default view">98fd8e7c47e2d15096fcb777746d437f</sys_ui_section>
+            <sys_updated_by>Varun</sys_updated_by>
+            <sys_updated_on>2023-04-25 07:50:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>
             <header>false</header>
