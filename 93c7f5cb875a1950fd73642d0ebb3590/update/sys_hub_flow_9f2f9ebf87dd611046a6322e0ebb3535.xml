@@ -958,7 +958,7 @@
     </sys_variable_value>
     <sys_element_mapping action="delete_multiple" query="id=6e8822f78711a11046a6322e0ebb35f8"/>
     <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>u_event</field>
+        <field>event</field>
         <id>6e8822f78711a11046a6322e0ebb35f8</id>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-03-07 19:17:26</sys_created_on>
@@ -970,7 +970,7 @@
         <value>{{subflow.error_record.event}}</value>
     </sys_element_mapping>
     <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>u_subtype</field>
+        <field>subtype</field>
         <id>6e8822f78711a11046a6322e0ebb35f8</id>
         <sys_created_by>Prama</sys_created_by>
         <sys_created_on>2023-03-21 12:07:30</sys_created_on>
@@ -982,7 +982,7 @@
         <value>{{subflow.error_record.subtype}}</value>
     </sys_element_mapping>
     <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>u_type</field>
+        <field>type</field>
         <id>6e8822f78711a11046a6322e0ebb35f8</id>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-03-07 19:17:26</sys_created_on>
@@ -3186,7 +3186,7 @@
     </sys_variable_value>
     <sys_element_mapping action="delete_multiple" query="id=fd7b500887a5a11046a6322e0ebb351a"/>
     <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>u_event</field>
+        <field>event</field>
         <id>fd7b500887a5a11046a6322e0ebb351a</id>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-03-08 03:39:34</sys_created_on>
@@ -3198,7 +3198,7 @@
         <value>{{subflow.error_record.event}}</value>
     </sys_element_mapping>
     <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>u_subtype</field>
+        <field>subtype</field>
         <id>fd7b500887a5a11046a6322e0ebb351a</id>
         <sys_created_by>Prama</sys_created_by>
         <sys_created_on>2023-03-21 12:07:41</sys_created_on>
@@ -3210,7 +3210,7 @@
         <value>{{subflow.error_record.subtype}}</value>
     </sys_element_mapping>
     <sys_element_mapping action="INSERT_OR_UPDATE">
-        <field>u_type</field>
+        <field>type</field>
         <id>fd7b500887a5a11046a6322e0ebb351a</id>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-03-08 03:39:34</sys_created_on>
